@@ -1,5 +1,4 @@
-local
 build
 node_modules
 public/main.css
-.DS_Store
+fly.toml
